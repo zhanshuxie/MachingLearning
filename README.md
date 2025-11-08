@@ -6,4 +6,4 @@
 
 ## Homework 2
 
-![](./Figures/Questions/Q1_figure.png)
+![](./Figures/Questions/Q2_figure.png)
