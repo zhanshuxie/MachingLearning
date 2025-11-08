@@ -13,4 +13,4 @@
 
 - 感知机:
 - 决策树:
-- 朴素贝叶斯: [[Article](https://zhuanlan.zhihu.com/p/26262151)] [[Code](./Homework_2.ipynb)]
+- 朴素贝叶斯: [[Article](https://zhuanlan.zhihu.com/p/26262151)] [[Code](./Homework_2_Naive_Bayes.ipynb)]
